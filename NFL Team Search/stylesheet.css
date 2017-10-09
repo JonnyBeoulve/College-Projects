@@ -1,0 +1,20 @@
+/*stylesheet.css*/
+
+h1{
+	font-size: 2em;
+	color: blue;
+}
+
+table{
+	text-align: left;
+	font-family: calibri;
+}
+
+body{
+	background-color: lightgrey;
+}
+
+.note{
+	font-size: .7em;
+	font-family: calibri;
+}

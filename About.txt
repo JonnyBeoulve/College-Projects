@@ -1,0 +1,3 @@
+In this folder you will find some coursework I completed on my way to obtaining a Bachelor's of Science in Computer Information Sytems at California State University, San Marcos.
+
+Folders contain projects, while shorter single-file programs are in the root directory.
