@@ -1,8 +1,5 @@
 // =========================================================
-//HW7P2
 //Jonathan Leack
-//Compiler: G++ 
-//File type: Implementation
 //===========================================================
 #ifndef DGRAPH_C
 #define DGRAPH_C

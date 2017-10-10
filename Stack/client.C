@@ -1,8 +1,5 @@
 // =========================================================
-//HW7P2
 //Jonathan Leack
-//Compiler: G++
-//File type: Client
 //==========================================================
 #include <iostream>
 #include <string>

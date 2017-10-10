@@ -1,6 +1,4 @@
 /*||Name: Jonathan Leack
-||||Date: 2/12/2016
-||||Assignment: 2 - Fork System Call
 ||||Description: This program will utilize Collatz conjecture to sequence an integer down to one.*/
 
 #include <stdio.h>

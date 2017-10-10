@@ -1,3 +1,7 @@
+/*****************************************
+Jonathan Leack
+*****************************************/
+
 #include <iostream>
 #include <iomanip>
 #include <string>

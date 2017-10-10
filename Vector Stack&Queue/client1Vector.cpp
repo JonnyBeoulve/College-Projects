@@ -1,5 +1,4 @@
 //================================================================
-//HW1P2 - VectorStack
 //Name: Jonathan Leack
 //Compiler:  G++
 //File type: Driver

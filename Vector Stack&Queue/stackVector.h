@@ -1,5 +1,4 @@
 //=======================================================
-//HW1P2 - Vector Stack
 //Name: Jonathan Leack
 //Compiler:  G++ 
 //File type: Header

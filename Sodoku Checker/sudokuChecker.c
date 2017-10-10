@@ -1,6 +1,6 @@
-// Author: Jonathan Leack
-// Title: Sudoku Checker
- 
+/*****************************************
+Jonathan Leack
+*****************************************/ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>

@@ -1,5 +1,4 @@
 //================================================================
-//HW1P1 - Queue
 //Name: Jonathan Leack
 //Compiler: G++ compiler
 //File type: Implementation
